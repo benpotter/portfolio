@@ -1,0 +1,214 @@
+/* © */
+
+body {
+    font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	color: #594F4F;
+	color: rgba(89,79,79,1.0);
+	margin: 0;
+	padding: 50px 0;
+	background: #FFF url("/img/yosemite-bgd.gif") no-repeat 50% 0;
+	text-rendering: optimizelegibility;
+}
+
+.lead {
+	padding: 20px 0;
+	font-weight: 300;
+}
+
+header .lead {
+	padding: 0;
+	font-weight: 300;
+}
+
+h1 {
+	font-family: 'Roboto Slab', serif;
+	font-weight: 300;
+	letter-spacing: -0.5px;
+}
+
+h3 {
+	font-family: 'Roboto Slab', serif;
+	font-weight: 300;
+	letter-spacing: -0.5px;
+	margin: 0;
+}
+
+#project h3 {
+	margin: 30px 0 0 0;
+}
+
+#project h4 {
+	font-family: 'Roboto Slab', serif;
+	color: #594F4F;
+	color: rgba(89,79,79,0.5);
+	font-weight: 700;
+	line-height: 1.5;
+	text-align: left;
+	margin: 20px 0 10px 0;
+	text-transform: uppercase;
+	font-size: 14px;
+	letter-spacing: 1.5px;
+}
+
+h5 {
+	font-family: 'Roboto Slab', serif;
+	font-weight: 500;
+	line-height: 1.5;
+	text-align: center;
+}
+
+#project span.role {
+	font-family: 'Roboto', sans-serif;
+	color: #594F4F;
+	color: rgba(89,79,79,1.0);
+	font-weight: 500;
+	line-height: 1.5;
+	text-align: left;
+	margin: 5px 0 20px;
+	display: block;
+}
+
+.brown {
+	color: #594F4F;
+	color: rgba(89,79,79,1.0);
+}
+
+.muted {
+	color: #594F4F;
+	color: rgba(89,79,79,0.7);
+}
+
+.blue {
+	color: #45ADA8;
+	color: rgba(69,173,168,1.0);
+}
+
+.subtitle {
+	display: block;
+	color: #999;
+	margin-bottom: 20px;
+	font-size: 85%;
+}
+
+a {
+	color: #594F4F;
+	color: rgba(89,79,79,1.0);
+	text-decoration: none;
+}
+
+a:hover {
+	color: #594F4F;
+	color: rgba(89,79,79,1.0);
+	text-decoration: none;
+}
+
+a:active {
+	color: #594F4F;
+	color: rgba(89,79,79,0.5);
+	text-decoration: none;
+}
+
+/* Everything Else */
+
+img.thumb {
+	position:relative;
+}
+
+img.thumb.inactive {
+	cursor: default;
+}
+
+img.thumb:hover {
+	cursor: pointer;
+	top: -2px;
+}
+
+img.thumb.inactive:hover {
+	cursor: default;
+	top: 0;
+}
+
+img.thumb:active {
+	top: 0px;
+}
+
+.opacity-3 img {
+	opacity: 0.3;
+}
+
+#header {
+	margin-bottom: 50px;
+}
+
+#hp {
+	padding: 150px 0;
+	background: transparent url("/img/hp-kid-bgd.jpg") no-repeat 50% 50%;
+	background-size: 100% auto;
+}
+
+#webtrends {
+	padding: 150px 0;
+	background: transparent url("/img/webtrends-bgd.jpg") no-repeat 50% 50%;
+	background-size: 100% auto;
+}
+
+.promo-set {
+	margin-bottom: 30px;
+}
+
+.thumb {
+	border-radius: 4px;
+}
+
+.img-project {
+	margin: 0 0 30px 0;
+}
+
+#posts {
+	margin: 0 auto 0;
+}
+
+.post {
+	margin: 0 0 50px;
+	text-align: center;
+	width: 280px;
+}
+
+.post.cs2 { width: 610px; }
+.post img { width: 100%; }
+
+.linkedin {
+	position: absolute;
+	right: 15px;
+	top: 20px;
+	height: 39px;
+	width: 30px;
+}
+
+#footer {
+	margin-top: 50px;
+}
+
+/* Large desktop */
+
+@media (min-width: 1200px) {
+	.container > #posts .post { width: 255px; }
+	.container > #posts .post.cs2 { width: 560px; }
+}
+
+/* Portrait tablet to landscape and desktop */
+
+@media (min-width: 768px) and (max-width: 979px) {
+	.container-fluid > #posts .post { width: 280px; }
+	.container-fluid > #posts .post.cs2 { width: 610px; }
+	.container > #posts .post { width: 337px; }
+	.container > #posts .post.cs2 { width: 100%; }
+}
+
+/* Landscape phone to portrait tablet */
+
+@media (max-width: 767px) {
+	body { padding: 50px 20px; }
+	.post, .post.cs2 { width: 100%; }
+}

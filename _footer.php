@@ -1,0 +1,1 @@
+<p class="muted brown"><small>&copy;Ben Potter, All rights reserved. Other trademarks and copyrights are of their respective holders.</small></p>

@@ -1,0 +1,1 @@
+<p class="lead brown muted">Interaction designer, user experience designer and web developer. I'm passionate about creating innovative, user-centered products with great teams.</p>

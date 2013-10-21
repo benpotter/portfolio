@@ -1,4 +1,4 @@
-portfolio
-=========
+Portfolio of Ben Potter
 
-Personal portfolio website built on Bootstrap 3
+v0.1
+First commit of pages, images, scripts
