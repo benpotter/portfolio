@@ -6,6 +6,7 @@
 	<?php include_once $_SERVER['DOCUMENT_ROOT'] . ("/_title.php") ?>
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,500,700,900,300' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
 	<!-- <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css"> -->
 	<link rel="stylesheet" href="/css/bootstrap.min.css">
 	<link rel="stylesheet" href="/css/style.css">
@@ -17,7 +18,6 @@
 </head>
 <body>
 <?php include_once $_SERVER['DOCUMENT_ROOT'] . ("/_ga.php") ?>
-<?php include_once $_SERVER['DOCUMENT_ROOT'] . ("/_reinvigorate.php") ?>
 <!-- Header -->
 <header id="header" class="container">
 	<div class="row">
@@ -38,7 +38,7 @@
 		<div class="col-sm-4 col-md-4">
 			<section class="row">
 				<div class="col-sm-12 col-md-12">
-					<h3>MoneyStrands&trade;</h3>
+					<h3>MoneyStrands<sup>&trade;</sup></h3>
 					<span class="role">User Experience Designer, Sr. Web Designer</span>
 					<p>Built in partnership with BBVA, one of Spain's largest banks, MoneyStrands led the way in meeting BBVA's customer's demands for a way to manage their accounts digitally. Since then, MoneyStrands has become and standalone digital product with a robust recommendation engine and has also provided financial institutions with a white label product they can offer to their customers.</p>
 					<p>Banks like Switzerland's Post Finance, Bank of Montreal, ING Netherlands and BBVA all use MoneyStrands to deliver an incredible value and product to their customers.</p>

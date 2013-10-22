@@ -6,6 +6,7 @@
 	<?php include_once $_SERVER['DOCUMENT_ROOT'] . ("/_title.php") ?>
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,500,700,900,300' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
 	<!-- <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css"> -->
 	<link rel="stylesheet" href="/css/bootstrap.min.css">
 	<link rel="stylesheet" href="/css/style.css">
@@ -17,7 +18,6 @@
 </head>
 <body>
 <?php include_once $_SERVER['DOCUMENT_ROOT'] . ("/_ga.php") ?>
-<?php include_once $_SERVER['DOCUMENT_ROOT'] . ("/_reinvigorate.php") ?>
 <!-- Header -->
 <header id="header" class="container">
 	<div class="row">
@@ -38,7 +38,7 @@
 		<div class="col-sm-4 col-md-4"><img class="img-responsive" src="webtrends-logo.png">
 			<section class="row">
 				<div class="col-sm-12 col-md-12">
-					<h3>Webtrends, Analytics 10&trade;</h3>
+					<h3>Webtrends, Analytics 10<sup>&trade;</sup></h3>
 					<span class="role">Interaction Designer, Web Developer</span>
 					<p>Analytics 10, a platform for digital analytics, is designed to help marketers more effectively acquire, engage and retain customers. Analytics 10 makes measuring your brand’s performance across digital properties highly intuitive and powerfully simple and is designed around 3 breakthrough capabilities &mdash; analytics across digital channels; data beyond the tag; and intelligent campaign discovery.</p>
 					<p>An easy to use and highly intuitive user interface puts the power of Webtrends Analytics in the hands of marketers. The UI, built with HTML5, is designed for click and touch interfaces providing a highly visual way to look at your data.</p>
@@ -53,38 +53,29 @@
 				<div class="col-sm-12 col-md-12">
 					<img class="img-project img-responsive" src="/img/promo-webtrends.png">
 				</div>
-			</section>
-			<section class="row">
-				<div class="col-sm-4 col-md-4">
-					<img class="img-project img-responsive" src="analytics10-02.png">
-				</div>
-				<div class="col-sm-4 col-md-4">
+				<div class="col-sm-6 col-md-6">
 					<img class="img-project img-responsive" src="analytics10-03.png">
 				</div>
-				<div class="col-sm-4 col-md-4">
-					<img class="img-project img-responsive" src="analytics10-04.png">
+				<div class="col-sm-6 col-md-6">
+					<img class="img-project img-responsive" src="analytics10-02.png">
 				</div>
-			</section>
-			<section class="row">
-				<div class="col-sm-4 col-md-4">
-					<img class="img-project img-responsive" src="analytics10-05.png">
-				</div>
-				<div class="col-sm-4 col-md-4">
-					<img class="img-project img-responsive" src="analytics10-06.png">
-				</div>
-				<div class="col-sm-4 col-md-4">
-					<img class="img-project img-responsive" src="analytics10-07.png">
-				</div>
-			</section>
-			<section class="row">
-				<div class="col-sm-4 col-md-4">
+				<div class="col-sm-6 col-md-6">
 					<img class="img-project img-responsive" src="analytics10-08.png">
 				</div>
-				<div class="col-sm-4 col-md-4">
+				<div class="col-sm-6 col-md-6">
 					<img class="img-project img-responsive" src="analytics10-09.png">
 				</div>
-				<div class="col-sm-4 col-md-4">
-					<img class="img-project img-responsive" src="analytics10-10.png">
+				<div class="col-sm-6 col-md-6">
+					<img class="img-project img-responsive" src="analytics10-04.png">
+				</div>
+				<div class="col-sm-6 col-md-6">
+					<img class="img-project img-responsive" src="analytics10-05.png">
+				</div>
+				<div class="col-sm-6 col-md-6">
+					<img class="img-project img-responsive" src="analytics10-06.png">
+				</div>
+				<div class="col-sm-6 col-md-6">
+					<img class="img-project img-responsive" src="analytics10-07.png">
 				</div>
 			</section>
 		</div>

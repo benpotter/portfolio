@@ -28,9 +28,8 @@ h1 {
 }
 
 h3 {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
-	letter-spacing: -0.5px;
 	margin: 0;
 }
 
@@ -38,7 +37,7 @@ h3 {
 	margin: 30px 0 0 0;
 }
 
-#project h4 {
+/*#project h4 {
 	font-family: 'Roboto Slab', serif;
 	color: #594F4F;
 	color: rgba(89,79,79,0.5);
@@ -49,6 +48,15 @@ h3 {
 	text-transform: uppercase;
 	font-size: 14px;
 	letter-spacing: 1.5px;
+}*/
+
+#project h4 {
+	font-family: 'Roboto Slab', sans-serif;
+	color: #594F4F;
+	color: rgba(89,79,79,0.6);
+	font-weight: 500;
+	text-align: left;
+	margin: 40px 0 15px 0;
 }
 
 h5 {
@@ -61,7 +69,7 @@ h5 {
 #project span.role {
 	font-family: 'Roboto', sans-serif;
 	color: #594F4F;
-	color: rgba(89,79,79,1.0);
+	color: rgba(89,79,79,0.6);
 	font-weight: 500;
 	line-height: 1.5;
 	text-align: left;
