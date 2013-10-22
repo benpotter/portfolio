@@ -40,10 +40,20 @@
 				<div class="col-sm-12 col-md-12">
 					<h3>Hewlett-Packard</h3>
 					<span class="role">Sr. User Experience Designer, HP Printables</span>
-					<p>Since 2010, I've guided and steered the user experience of the touch panel interface for HP's Photosmart, Officejet, Laserjet and ENVY web-connected printers. Customers using their web-connected printer along with HP Connected can store their Snapfish photos, documents and printables in the HP Cloud for easy printing on-demand.</p>
+					<p>Since 2010, I represented our users by guiding development of printer touchscreen interaction for HP's Photosmart, OfficeJet, LaserJet and ENVY web-connected printers. Customers using their web-connected printers, along with accounts in HP Connected, can store their photos and documents and access other printables in the HP Cloud for easy on-demand printing.</p>
 					<h4>User Experience</h4>
-					<p>There are over 40+ models of HP Web Connected printers, each with their own UI pattern library, transitions and firmware. Maintaining a consistent user experience is critical to our effectiveness and how customers interact with our products. We've been able to to this through an agile software development approach, quick turnaround on fixing defects and being creative when encountering limitations because of slower firmware release schedules.</p>
+					<p>There are over 40+ models of HP Web Connected printers, each with their own UI pattern library, embedded browser and firmware version. Maintaining a consistent user experience despite these always changing variables is critical to our effectiveness and how customers interact with our products. We've been able to to this through an agile software development approach; effective ideation sessions between developers, design and marketing; rapid prototyping with hand sketching and interactive Axure prototypes; and an on-going effort to run usability studies, capture feedback and prioritize it in the product backlog.</p>
 					<p>Since launching, we've been able to take this from an R&amp;D project to the top business unit in Printing Solutions Organization with millions of happy customers.</p>
+					<h4>Responsibilities</h4>
+					<ul>
+						<li>Lead UX designer and developer for HP Printables, printer touch panel interface</li>
+						<li>Take existing UI pattern library for four types of devices and envision customer flows through product</li>
+						<li>Co-authored web app to generate XML that is rendered on touch panel interface</li>
+						<li>Technical advisor on R&amp;D Lab Innovation Team, Printing Systems Organization</li>
+						<li>Assist product owners in determining scope for work to be done for each release</li>
+						<li>Prototype interactive demos in HTML5/CSS/jQuery for upcoming features</li>
+						<li>Advise in UX and UI patterns for all other app development teams in organization</li>
+					</ul>
 				</div>
 			</section>
 		</div>

@@ -41,6 +41,16 @@
 					<h3>Webtrends, Reinvigorate<sup>&trade;</sup></h3>
 					<span class="role">Interaction Designer, Web Developer</span>
 					<p>Looking to greatly expand its offering in realtime web analytics, Webtrends acquired Reinvigorate in early 2010 and as lead interaction designer and web developer, my team and I were able to tighten up the user experience and re-skin the entire web application to align with other Webtrends digital properties.</p>
+					<h4>Implementation</h4>
+					<p>Initial work was to rewrite the CSS stylesheets to introduce a new color palette for data visualizations and for the UI in general. Additional modifications were made to the javascript chart libraries to improve the look and feel of the data visualizations and user experience when interacting with the charts.</p>
+					<h4>Responsibilities</h4>
+					<ul>
+						<li>Feature branch existing codebase and get deployed on new stack</li>
+						<li>Led ideation sessions with original developer and Engineering Futures team</li>
+						<li>Re-write CSS for new design showcasing color palette and branding update.</li>
+						<li>Improve data visualization interactions</li>
+						<li>Present finished Webtrends branded Reinvigorate to stakeholders.</li>
+					</ul>
 				</div>
 			</section>
 		</div>

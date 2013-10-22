@@ -117,6 +117,20 @@ a:active {
 	text-decoration: none;
 }
 
+ul {
+	padding-left: 0px;
+}
+
+li:before { 
+    content: '\b7\a0'; /* \b7 is a middot, \a0 is a space */
+}
+
+li {
+    list-style:none;
+    text-indent:-.5em; /* helps make it look more like it's a bullet. */
+	margin-bottom: 5px;
+}
+
 /* Everything Else */
 
 img.thumb {
