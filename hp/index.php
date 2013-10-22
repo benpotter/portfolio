@@ -40,7 +40,7 @@
 				<div class="col-sm-12 col-md-12">
 					<h3>Hewlett-Packard</h3>
 					<span class="role">Sr. User Experience Designer, HP Printables</span>
-					<p>Since 2010, I've guided and steered HP's touch panel interface for their Photosmart, Officejet, Laserjet and ENVY web-connected printers. Customers using their web-connected printer along with HP Connected can store their Snapfish photos, documents and printables in the HP Cloud for easy printing on-demand.</p>
+					<p>Since 2010, I've guided and steered the user experience of the touch panel interface for HP's Photosmart, Officejet, Laserjet and ENVY web-connected printers. Customers using their web-connected printer along with HP Connected can store their Snapfish photos, documents and printables in the HP Cloud for easy printing on-demand.</p>
 					<h4>User Experience</h4>
 					<p>There are over 40+ models of HP Web Connected printers, each with their own UI pattern library, transitions and firmware. Maintaining a consistent user experience is critical to our effectiveness and how customers interact with our products. We've been able to to this through an agile software development approach, quick turnaround on fixing defects and being creative when encountering limitations because of slower firmware release schedules.</p>
 					<p>Since launching, we've been able to take this from an R&amp;D project to the top business unit in Printing Solutions Organization with millions of happy customers.</p>
