@@ -48,8 +48,14 @@
 						<div class="col-md-6"><img src="bank3.png" class="img-responsive"></div>
 						<div class="col-md-6"><img src="bank4.png" class="img-responsive"></div>
 					</section>
-					<p>An easy to use and highly intuitive user interface puts the power of Webtrends Analytics in the hands of marketers. The UI, built with HTML5, is designed for click and touch interfaces providing a highly visual way to look at your data.</p>
 					<p>Being a part of the team that developed MoneyStrands was an incredible experience, working with so many talented and passionate people. The project culminated with an intense four months living in Spain, iterating and improving the user interface constantly to deliver a better experience, clearer data visualizations and spot-on recommendations.</p>
+					<h4>Responsibilities</h4>
+					<ul>
+						<li>Collaborated with individual feature owners and ideated on customer flows, UI patterns and UX</li>
+						<li>Responsible for entire user interface, cross-browser testing, interaction design of individual finance widgets</li>
+						<li>Lead team of web designers in Barcelona, Spain</li>
+						<li>Worked alongside VP of MoneyStrands to design and develop re-branding on MoneyStrands</li>
+					</ul>
 				</div>
 			</section>
 		</div>

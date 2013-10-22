@@ -44,7 +44,13 @@
 					<p>An easy to use and highly intuitive user interface puts the power of Webtrends Analytics in the hands of marketers. The UI, built with HTML5, is designed for click and touch interfaces providing a highly visual way to look at your data.</p>
 					<h4>User Experience</h4>
 					<p>Products that contain large amounts of data can often get bogged down in the details and overwhelm the user with a myriad of charts, graphs and underwhelming data visualizations. The team I worked with was absolutely incredible at simplifying the experience down to the most critical elements, while keeping the value high for the customer and telling the story for their website, mobile app, Facebook or Sharepoint site.</p>
-					<p>Through elaboration sessions and subsequent product design meetings, my team was able to design, develop, test and re-align new path analysis and scenario analysis data visualizations during my time at Webtrends.</p>
+					<h4>Responsibilities</h4>
+					<ul>
+						<li>As Senior Interaction Designer, I led the team of backend developers and front-end web designers in feature elaboration, understanding requirements from product owners and contributed as a front-end web developer as well</li>
+						<li>Introduced path analysis and scenario analysis features into Analytics 10 that were only present in legacy app before</li>
+						<li>Designed and programmed jQuery interactions and UI patterns for path analysis and scenario analysis visualizations</li>
+						<li>Collaborated with futures design team to incorporate new types of data visualizations and improved user experiences into Analytics 10 product</li>
+					</ul>
 				</div>
 			</section>
 		</div>
