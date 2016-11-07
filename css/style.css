@@ -1,13 +1,36 @@
 /* © */
 
+@font-face {
+  font-family: 'Texta';
+  src: url('../fonts/2D333F_2_0.woff2') format('woff2'),
+    url('../fonts/2D333F_2_0.woff') format('woff');
+}
+
+/* Texta Heavy */
+@font-face {
+  font-family: 'Texta';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/2D333F_0_0.woff2') format('woff2'),
+    url('../fonts/2D333F_0_0.woff') format('woff');
+}
+
+/* Texta Italic */
+@font-face {
+  font-family: 'Texta';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/2D333F_1_0.woff2') format('woff2'),
+    url('../fonts/2D333F_1_0.woff') format('woff');
+}
+
 body {
-    font-family: 'Roboto', sans-serif;
-	font-weight: 400;
-	color: #594F4F;
+  font-family: 'Texta', sans-serif;
+	font-weight: 300;
+	color: #000;
 	color: rgba(89,79,79,1.0);
 	margin: 0;
 	padding: 50px 0;
-	background: #FFF url("/img/yosemite-bgd.gif") no-repeat 50% 0;
 	text-rendering: optimizelegibility;
 }
 
@@ -22,7 +45,7 @@ header .lead {
 }
 
 h1 {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Texta', sans-serif;
 	font-weight: 300;
 	letter-spacing: -0.5px;
 }
@@ -121,7 +144,7 @@ ul {
 	padding-left: 0px;
 }
 
-li:before { 
+li:before {
     content: '\b7\a0'; /* \b7 is a middot, \a0 is a space */
 }
 
